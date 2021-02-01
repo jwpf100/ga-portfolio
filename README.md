@@ -4,7 +4,7 @@ Single page portfolio to showcase some of my projects, and provide some backgrou
 
 ## Project Status
 
-This project is currently in development.  Originally created at an early stage of my learning process so needs to be updated with newer projects, and more details about myself and what I am looking to do.
+This project is currently in development.  Originally created at an early stage of my learning process so could do with a sprucing up.
 
 ## Project Screen Shot(s)
 
