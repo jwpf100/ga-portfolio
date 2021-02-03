@@ -31,7 +31,6 @@ mybutton = document.getElementById("myBtn");
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  console.log(window.pageYOffset)
   if (document.body.scrollTop > 1124 || document.documentElement.scrollTop > 1124) {
     mybutton.style.display = "block";
   } else {
